@@ -1,11 +1,9 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title>荣耀AI团队</title>
-        <link>http://localhost:1313/</link>
-        <description>This is my cool site</description>
-        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Mon, 29 Dec 2025 19:21:33 &#43;0800</lastBuildDate>
-            <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
-        <item>
+        <title>所有文章 - 荣耀AI团队</title>
+        <link>http://localhost:1313/posts/</link>
+        <description>所有文章 | 荣耀AI团队</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Mon, 29 Dec 2025 19:21:33 &#43;0800</lastBuildDate><atom:link href="http://localhost:1313/posts/" rel="self" type="application/rss+xml" /><item>
     <title>AI系统工程与高性能计算小组</title>
     <link>http://localhost:1313/posts/ai%E7%B3%BB%E7%BB%9F%E5%B7%A5%E7%A8%8B%E4%B8%8E%E9%AB%98%E6%80%A7%E8%83%BD%E8%AE%A1%E7%AE%97%E5%B0%8F%E7%BB%84/</link>
     <pubDate>Mon, 29 Dec 2025 19:21:33 &#43;0800</pubDate>
