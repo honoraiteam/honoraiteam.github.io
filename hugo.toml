@@ -1,4 +1,4 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://honoraiteam.github.io/'
 
 title = '荣耀AI团队'
 theme = 'LoveIt'
@@ -6,3 +6,7 @@ theme = 'LoveIt'
 languageCode = 'zh-CN'
 languageName = "简体中文"
 hasCJKLanguage = true
+
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
